@@ -213,7 +213,9 @@ export function GlobalKPICards() {
           <p className="text-xs text-gray-700">
             <span className="font-semibold">{kpiData.dataTypeLabel}</span>
             {' for '}
-            <span className="font-semibold">{kpiData.marketLabel}</span>
+            <span className="font-semibold">{kpiData.geographyLabel}</span>
+            {' | '}
+            <span className="font-semibold">{kpiData.segmentTypeLabel}</span>
           </p>
         </div>
 
