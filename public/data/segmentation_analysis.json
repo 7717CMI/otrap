@@ -1,0 +1,149 @@
+{
+  "Global": {
+    "By Type": {},
+    "By Power Source": {},
+    "By Category": {},
+    "By End User": {},
+    "By Price Segment": {},
+    "By Distribution Channel": {
+      "Online Channels": {
+        "E-commerce / Third-party websites": {},
+        "Company-owned websites": {}
+      },
+      "Offline Channels": {
+        "Supermarket / Hypermarket": {},
+        "Convenience Stores": {},
+        "Distributors / Wholesalers": {},
+        "Other Offline Channels": {}
+      }
+    },
+    "Region": {},
+    "Country": {}
+  },
+  "North America": {
+    "By Type": {},
+    "By Power Source": {},
+    "By Category": {},
+    "By End User": {},
+    "By Price Segment": {},
+    "By Distribution Channel": {
+      "Online Channels": {
+        "E-commerce / Third-party websites": {},
+        "Company-owned websites": {}
+      },
+      "Offline Channels": {
+        "Supermarket / Hypermarket": {},
+        "Convenience Stores": {},
+        "Distributors / Wholesalers": {},
+        "Other Offline Channels": {}
+      }
+    },
+    "Region": {},
+    "Country": {}
+  },
+  "Europe": {
+    "By Type": {},
+    "By Power Source": {},
+    "By Category": {},
+    "By End User": {},
+    "By Price Segment": {},
+    "By Distribution Channel": {
+      "Online Channels": {
+        "E-commerce / Third-party websites": {},
+        "Company-owned websites": {}
+      },
+      "Offline Channels": {
+        "Supermarket / Hypermarket": {},
+        "Convenience Stores": {},
+        "Distributors / Wholesalers": {},
+        "Other Offline Channels": {}
+      }
+    },
+    "Region": {},
+    "Country": {}
+  },
+  "Asia Pacific": {
+    "By Type": {},
+    "By Power Source": {},
+    "By Category": {},
+    "By End User": {},
+    "By Price Segment": {},
+    "By Distribution Channel": {
+      "Online Channels": {
+        "E-commerce / Third-party websites": {},
+        "Company-owned websites": {}
+      },
+      "Offline Channels": {
+        "Supermarket / Hypermarket": {},
+        "Convenience Stores": {},
+        "Distributors / Wholesalers": {},
+        "Other Offline Channels": {}
+      }
+    },
+    "Region": {},
+    "Country": {}
+  },
+  "Latin America": {
+    "By Type": {},
+    "By Power Source": {},
+    "By Category": {},
+    "By End User": {},
+    "By Price Segment": {},
+    "By Distribution Channel": {
+      "Online Channels": {
+        "E-commerce / Third-party websites": {},
+        "Company-owned websites": {}
+      },
+      "Offline Channels": {
+        "Supermarket / Hypermarket": {},
+        "Convenience Stores": {},
+        "Distributors / Wholesalers": {},
+        "Other Offline Channels": {}
+      }
+    },
+    "Region": {},
+    "Country": {}
+  },
+  "Middle East": {
+    "By Type": {},
+    "By Power Source": {},
+    "By Category": {},
+    "By End User": {},
+    "By Price Segment": {},
+    "By Distribution Channel": {
+      "Online Channels": {
+        "E-commerce / Third-party websites": {},
+        "Company-owned websites": {}
+      },
+      "Offline Channels": {
+        "Supermarket / Hypermarket": {},
+        "Convenience Stores": {},
+        "Distributors / Wholesalers": {},
+        "Other Offline Channels": {}
+      }
+    },
+    "Region": {},
+    "Country": {}
+  },
+  "Africa": {
+    "By Type": {},
+    "By Power Source": {},
+    "By Category": {},
+    "By End User": {},
+    "By Price Segment": {},
+    "By Distribution Channel": {
+      "Online Channels": {
+        "E-commerce / Third-party websites": {},
+        "Company-owned websites": {}
+      },
+      "Offline Channels": {
+        "Supermarket / Hypermarket": {},
+        "Convenience Stores": {},
+        "Distributors / Wholesalers": {},
+        "Other Offline Channels": {}
+      }
+    },
+    "Region": {},
+    "Country": {}
+  }
+}
